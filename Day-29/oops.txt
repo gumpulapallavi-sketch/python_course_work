@@ -1,0 +1,70 @@
+class is a blueprint that contains attributes and methods
+i have a class who are using that class are objects
+inside  the class
+security to the data,wrapping the data and methods -->(encapsulation)(instagram)
+Inheritance(linkeidn)
+same actions different bhehaviour
+same method different forms---->poly(youtube)youtube premium 
+hiding the internal complexity--->abstraction (phonepay)
+
+
+------Notes------
+
+1. Why do we need OOP?
+A.Procedural programming is good for small programs, whereas OOP is useful for large and complex programs because it makes the code organized, reusable, easy to maintain, and secure.
+
+2. What is OOP?
+A. OOP (Object-Oriented Programming) is a programming approach that organizes a program using classes and objects.
+
+3. Class
+A. class is a blueprint that contains attributes and methods.
+variables---->are attributes
+attribiute-->a container goinng 
+functions ---->are methods
+
+4. Object
+A. An object is an instance created from a class.
+
+5. Features of OOPs
+The four main features of OOP are:
+Encapsulation
+Inheritance
+Polymorphism
+Abstraction
+
+6. Encapsulation 
+Encapsulation means wrapping data and methods together inside a class and protecting the data from direct access.
+Example::(Instagram)
+“In Instagram, your password is hidden and cannot be directly accessed by other users. This is an example of data protection through Encapsulation.
+
+7. Inheritance 
+A.Inheritance means one class can acquire the properties and methods of another class.
+Example:A profile can use common details and also add its own additional details, similar to how a child class reuses parent features and adds new features.
+
+8. Polymorphism 
+Polymorphism means the same method or action can have different forms or behaviors.
+YouTube Example ▶️
+
+Same action: Watching a video
+
+YouTube Premium user → Watches without ads.
+YouTube Non-Premium user → Watches with ads.
+
+9. Abstraction 🏧
+Abstraction means hiding the complexity 
+
+
+11.how to declare a empty block of code --->pass
+
+create a class --->class create a class 
+
+attributes -->2 types--->class attribiutes,instance attribiutes
+class variables/attributes-->variabels decalred inside the class
+instance variables/attributes--->the variable defined by a object ,based on user,defined outside the class,we used a self parameter refering to object
+attributes-->depends on user-->instance attributes (flipkart-->products,discount)
+class attributesare goinngto define inside the class 
+
+method-->3 types--->class method,instance method,static method
+doesn't care the class or method --.staticmetjpd
+
+add functionality to my function is called decorator
